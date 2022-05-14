@@ -15,7 +15,7 @@ _________________
 
 
 ### Sobre
-O **sistema** é uma aplicação web completa que permite realizar o acompanhamento de unidades ou franquias de determinada rede. Permite o cadastro de administradores, filiais e usuários comuns, cada qual com suas permissões e funcionalidades específicas.
+O **sistema** é uma aplicação web que permite realizar o acompanhamento de unidades ou franquias de determinada rede. Permite o cadastro de administradores, filiais e usuários comuns, cada qual com suas permissões e funcionalidades específicas.
   
 ### Tecnologias
 No desenvolvimento do **sistema** foi utilizada a linguagem **PHP**, **Javascript** e o banco de dados **MySQL**.
